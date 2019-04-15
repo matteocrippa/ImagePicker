@@ -291,6 +291,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = D5DC59811C201BE1003BD79B;
@@ -517,7 +518,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = no.hyper.ImagePicker;
 				PRODUCT_NAME = ImagePicker;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -537,7 +538,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = no.hyper.ImagePicker;
 				PRODUCT_NAME = ImagePicker;
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
